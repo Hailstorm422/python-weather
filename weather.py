@@ -3,6 +3,11 @@ from pprint import pprint
 import requests
 import os
 
+#https://openweathermap.org/
+#github.com
+#render.com
+
+
 load_dotenv()
 
 def get_current_weather(city="Milwaukee"):
